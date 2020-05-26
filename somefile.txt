@@ -1,3 +1,3 @@
-Hello git
+Hello git.
 asdasdas
 asdssdasd"Git is awesome" 
